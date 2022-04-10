@@ -1,6 +1,11 @@
 table,th,td{
-    border: solid rgb(151, 37, 37);
+    border: solid rgb(112, 30, 75);
     width: 800px;
     height: 100px;
+    align-items: center;
     
+}
+tr, td{
+    justify-content: center;
+
 }
